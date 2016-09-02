@@ -10,4 +10,4 @@ Loading plugin adds command "jsDeltaCmd()" to maya.cmds. Select target mesh and 
 2016.5 Changes:
 - getOpenCLCommandQueue has been replaced with getMayaDefaultOpenCLCommandQueue
 - MGPUDeformerRegistrationInfo class now requires two separate validation functions instead of validateNode()
-- the 2017 validate functions (mentioned I think in the 2016 docs but I never implemented them) are validateNodeValues() and validateNodeInGraph()
+- the 2016.5 validate functions (mentioned I think in the 2016 docs but I never implemented them) are validateNodeValues() and validateNodeInGraph()
